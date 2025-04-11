@@ -189,7 +189,7 @@ export default function ChatBox({ onClose }: Props) {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <Avatar isUser={false} />
-              <h2 className="text-white font-semibold">AI Chatbot</h2>
+              <h2 className="text-white font-semibold">Hazrat AI Chatbot</h2>
               <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse" />
             </div>
             <button
