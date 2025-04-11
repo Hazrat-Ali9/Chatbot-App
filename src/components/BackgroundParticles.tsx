@@ -1,7 +1,7 @@
 // export default BackgroundParticles;
 "use client";
 import { motion } from "framer-motion";
-
+// Particles 
 const BackgroundParticles = () => {
   // Large circles configuration with softer colors and contained movement
   const circles = [
