@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ChatBot Ai - Shariar",
+  title: "ChatBot AI - Hazrat",
   description: "Chatbot with scoring & Reports by email collection",
 };
 
