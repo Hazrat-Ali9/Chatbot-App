@@ -1,6 +1,6 @@
 // store/useChatStore.ts
 import { create } from "zustand";
-
+// user chat store
 interface Message {
   id: string;
   text: string;
